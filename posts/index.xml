@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Aprendendo AWS com LocalStack</title>
+    <link>https://lucaslimafernandes.github.io/posts/</link>
+    <description>Recent content in Posts on Aprendendo AWS com LocalStack</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lucaslimafernandes.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O que é AWS e o que é LocalStack?</title>
+      <link>https://lucaslimafernandes.github.io/posts/primeiro-post/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lucaslimafernandes.github.io/posts/primeiro-post/</guid>
+      <description>&lt;p&gt;Para continuar minha evolução profissional, percebi que entender a AWS era fundamental. Procurando conteúdos sobre o assunto, descobri o LocalStack, uma forma de simular o ambiente AWS localmente.&lt;/p&gt;
+&lt;h2 id=&#34;o-que-é-aws&#34;&gt;O que é AWS?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;Amazon Web Services (AWS)&lt;/strong&gt; é a maior plataforma de computação em nuvem do mundo. Ela oferece &lt;strong&gt;serviços sob demanda&lt;/strong&gt; como:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Armazenamento de arquivos (S3)&lt;/li&gt;
+&lt;li&gt;Execução de funções sem servidor (Lambda)&lt;/li&gt;
+&lt;li&gt;Bancos de dados gerenciados (DynamoDB, RDS)&lt;/li&gt;
+&lt;li&gt;Criação de APIs (API Gateway)&lt;/li&gt;
+&lt;li&gt;Computação (EC2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A AWS oferece 12 meses de uso gratuitos, mas se posso testar localmente antes&amp;hellip; por que não?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
