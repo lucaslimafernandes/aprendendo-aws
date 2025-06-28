@@ -18,7 +18,8 @@ Vou precisar reescrever algumas partes, mas tudo bem :)
 
 ## Detecção de faixa
 
-![Detecção de faixa]({{< absURL "images/projeto.png" >}})
+![Detecção de faixa]({{ "images/projeto.png" | absURL }})
+
 
 A ideia é:
 
