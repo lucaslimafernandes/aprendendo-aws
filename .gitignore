@@ -8,6 +8,8 @@
 *.so
 *.dylib
 
+.hugo_build.lock
+
 # Test binary, built with `go test -c`
 *.test
 
