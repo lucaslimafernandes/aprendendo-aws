@@ -1,7 +1,7 @@
 ---
 title: "O Projeto!"
 date: 2025-06-28T13:28:26-03:00
-draft: true
+draft: false
 ---
 
 Aqui vou explicar o que será feito com AWS (simulada pelo LocalStack) e como vou estruturar esse projeto para aprender de forma prática.
