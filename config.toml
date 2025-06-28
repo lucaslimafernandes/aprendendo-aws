@@ -1,7 +1,6 @@
 baseURL = 'https://lucaslimafernandes.github.io/'
 languageCode = 'pt-br'
 title = 'Aprendendo AWS com LocalStack'
-baseURL = 'https://lucaslimafernandes.github.io/aprendendo-aws/'
 theme = 'PaperMod'
 
 [params]
