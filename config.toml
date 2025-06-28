@@ -1,0 +1,13 @@
+baseURL = 'https://lucaslimafernandes.github.io/'
+languageCode = 'pt-br'
+title = 'Aprendendo AWS com LocalStack'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "Sobre"
+    url = "/sobre/"
