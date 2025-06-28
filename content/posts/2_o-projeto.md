@@ -18,7 +18,7 @@ Vou precisar reescrever algumas partes, mas tudo bem :)
 
 ## Detecção de faixa
 
-{{< figure src="images/projeto.png" title="Detecção de faixa" >}}
+![Detecção de faixa](https://lucaslimafernandes.github.io/aprendendo-aws/images/projeto.png)
 
 
 A ideia é:
