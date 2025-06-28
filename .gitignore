@@ -10,6 +10,9 @@
 
 .hugo_build.lock
 /public
+*.csv
+ideas.md
+
 
 # Test binary, built with `go test -c`
 *.test
