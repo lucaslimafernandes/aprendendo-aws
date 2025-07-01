@@ -1,7 +1,7 @@
 ---
 title: "Criando a primeira API para upload de vídeos - S3 e SQS"
 date: 2025-07-05T14:38:07-03:00
-draft: true
+draft: false
 ---
 
 Vamos começar com uma API com FastAPI para realizar upload de vídeos a um bucket S3 e inserir um item na fila para processamento com o SQS.
