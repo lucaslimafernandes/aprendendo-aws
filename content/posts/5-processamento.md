@@ -148,9 +148,7 @@ curl -X 'POST' \
   -F 'file=@mov_0288_b.mp4;type=video/mp4'
 ```
 
-
 ## Resultados
-
 
 Podemos acessar o Bucket S3 via [LocalStack](https://app.localstack.cloud/inst/default/resources)
 
