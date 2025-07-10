@@ -1,7 +1,7 @@
 ---
 title: "Realizando o processamento de vídeo"
 date: 2025-07-09T22:01:42-03:00
-draft: true
+draft: false
 ---
 
 Lambda com LocalStack não deu bom, pelo menos por aqui 😅
