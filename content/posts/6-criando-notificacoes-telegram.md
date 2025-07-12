@@ -1,7 +1,7 @@
 ---
 title: "Notificando finalização via Telegram (c/ SNS)"
 date: 2025-07-11T23:11:32-03:00
-draft: true
+draft: false
 ---
 
 Mais um passo criado, desta vez com os seguintes itens:
